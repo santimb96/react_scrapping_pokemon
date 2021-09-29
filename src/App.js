@@ -1,6 +1,5 @@
-import logo from './logo.svg';
 import './App.css';
-import PreguntarPokemon from "./components/PreguntarPokemon";
+import PreguntarPokemon from "./components/PreguntarPokemon.jsx";
 
 function App() {
   return (
